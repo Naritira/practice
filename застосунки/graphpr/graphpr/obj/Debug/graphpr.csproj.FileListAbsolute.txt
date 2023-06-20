@@ -1,0 +1,11 @@
+C:\Users\naritira\source\repos\graphpr\graphpr\bin\Debug\graphpr.exe.config
+C:\Users\naritira\source\repos\graphpr\graphpr\bin\Debug\graphpr.exe
+C:\Users\naritira\source\repos\graphpr\graphpr\bin\Debug\graphpr.pdb
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.csproj.AssemblyReference.cache
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.csproj.SuggestedBindingRedirects.cache
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.Form1.resources
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.Properties.Resources.resources
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.csproj.GenerateResource.cache
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.csproj.CoreCompileInputs.cache
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.exe
+C:\Users\naritira\source\repos\graphpr\graphpr\obj\Debug\graphpr.pdb

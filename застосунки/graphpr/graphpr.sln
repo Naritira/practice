@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graphpr", "graphpr\graphpr.csproj", "{38E88FF3-A210-4E2E-BA60-E83ECA9E8F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E88FF3-A210-4E2E-BA60-E83ECA9E8F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E88FF3-A210-4E2E-BA60-E83ECA9E8F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E88FF3-A210-4E2E-BA60-E83ECA9E8F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E88FF3-A210-4E2E-BA60-E83ECA9E8F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C61A6980-EFCA-4BAF-9097-158A8569B125}
+	EndGlobalSection
+EndGlobal
